@@ -1,7 +1,5 @@
-Help on module Network Plotting with Capcity included:
-
 NAME
-    Network Plotting with Capcity included - @author: jwhite
+    network-plotting-examples - @author: jwhite
 
 DESCRIPTION
     @email: josh@securemind.org
@@ -73,5 +71,6 @@ DATA
     startnode = 'a'
 
 FILE
-    /home/jwhite/Network Plotting with Capcity included.py
+    /home/jwhite/SECUREMINDOWNCLOUD/DEVELOPMENT/NetworkSimPlayGround/network-plotting-examples.py
+
 
