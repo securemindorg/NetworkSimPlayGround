@@ -61,19 +61,28 @@ FUNCTIONS
         This function returns all possible paths from the startnode to the end node as a list of lists
 
 DATA
+
     G = <networkx.classes.graph.Graph object>
+
     bottleneckfound = ('b', 'c', '10 Gbps')
+
     endnode = 'c'
+
     igrp_default_path = [['a', 'b', 'c'], 5000006.68]
+
     igrp_path_metric = 5000006.68
+
     igrp_path_metrics = [[['a', 'b', 'c'], 5000006.68], [['a', 'b', 'd', '...
+
     latencyperkm = 3.34
+
     linkcapacity = [('a', 'b', '15 Gbps'), ('b', 'c', '10 Gbps')]
+
     pathquestion = ['a', 'b', 'c', 'd']
+
     pos = {'a': (1, 1), 'b': (1, 2), 'c': (2, 2), 'd': (2, 1), 'e': (4, 1)...
+
     startnode = 'a'
 
-FILE
-    /home/jwhite/SECUREMINDOWNCLOUD/DEVELOPMENT/NetworkSimPlayGround/network-plotting-examples.py
 
 
