@@ -1,7 +1,9 @@
 NAME
+
     network-plotting-examples - @author: jwhite
 
 DESCRIPTION
+
     @email: josh@securemind.org
     
     @description: This is script demonstrates the construction of a simple network multigraph 
@@ -14,6 +16,7 @@ DESCRIPTION
     per second.
 
 FUNCTIONS
+
     bottle_neck_link_capacity(G, start, end)
         This function returns the link that will cause the first link capacity bottleneck in the shortest path
     
